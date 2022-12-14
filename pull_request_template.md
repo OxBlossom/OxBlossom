@@ -1,10 +1,10 @@
 ## PR fulfillment criteria
 
-- **What kind of change does this PR introduce?** (Bugfix, feature, refactor, etc)
+- **What kind of change does this PR introduce?**
 
-- **Why is the current change?** (You can also link to an open issue here)
+- **Why is the current change?**
 
-- **What is the new behavior (if this is a feature change)?**
+- **What is the new behavior?**
 
 - **Does this PR introduce a breaking change?**
 
